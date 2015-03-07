@@ -29,6 +29,6 @@ public class PolishNotationCalcultator {
         }else{
             System.out.println("your input was wrong");
         }
-        
+
     }
 }
